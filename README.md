@@ -1,0 +1,2 @@
+# LoadingAnimation
+Simple Loading Page
